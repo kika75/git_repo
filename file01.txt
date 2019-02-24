@@ -1,1 +1,3 @@
-hej hej
+h git config --global user.name ej hej
+here we goooooooooo!
+some more changes
